@@ -1,2 +1,2 @@
 # GfG-Practice
-Solved Problems on Geeks for Geeks Practice
+Problems asked in Amazon, Microsoft, Google, Flipkart, Adobe etc.
